@@ -53,7 +53,7 @@ Ran 10 analytical queries covering:
 
 ## Dashboard (Power BI)
 Built an interactive Power BI dashboard to visualize global case trends, regional comparisons, and country-level breakdowns.
-- [Add screenshot or link to .pbix file]
+(https://github.com/arindam-09/Covid-19-Analysis/blob/main/Dashboard.PNG)
 
 ## Results & Recommendations
 - **Focus resources on high-burden regions** — direct medical support to WHO regions/countries with the highest confirmed and active cases
