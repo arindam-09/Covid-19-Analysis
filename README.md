@@ -94,5 +94,6 @@ Built an interactive Power BI dashboard to visualize global case trends, regiona
 ```
 
 ## Author
-[Your Name]
-[LinkedIn / Portfolio / GitHub link]
+Arindam Talukdar
+(https://github.com/arindam-09)
+linkedin.com/in/arindam-talukdar
